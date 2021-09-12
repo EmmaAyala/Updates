@@ -2,6 +2,10 @@
 <item>
     <version>1.1.0.0</version>
     <url>https://github.com/EmmaAyala/Updates/raw/master/MacetasDesktop/MacetasDesktop.zip</url>
-    <changelog>https://github.com/EmmaAyala/Updates/releases</changelog>
+    <changelog>
+-test
+-test
+-test
+</changelog>
     <mandatory>false</mandatory>
 </item>
